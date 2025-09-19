@@ -1,5 +1,5 @@
-# Brown Fine Security
+# Brown Fine Security - Securing the Connected Devices of Tomorrow
 
-> Securing the Connected Devices of Tomorrow
-
-> Expert IoT Penetration Testing Services
+[About Matt Brown](https://brownfinesecurity.com/about)
+[IoT Pentesting Services](https://brownfinesecurity.com/iot-penetration-testing)
+[Contact Us](https://brownfinesecurity.com/contact)
