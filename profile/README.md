@@ -1,8 +1,7 @@
-## Brown Fine Security, LLC
+# Brown Fine Security
 
-Welcome to the GitHub profile for Brown Fine Security. We host various IoT Hacking educational resources.
-
-Socials
+## Expert IoT Penetration Testing Services
+## Securing the Connected Devices of Tomorrow
 
 YouTube: https://www.youtube.com/@mattbrwn
 
